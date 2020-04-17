@@ -3,11 +3,11 @@
   <title>一笑 blogs</title>
   
   <subtitle>study everdyday</subtitle>
-  <link href="/blogs/atom.xml" rel="self"/>
+  <link href="/suitianshuang.github.io/atom.xml" rel="self"/>
   
-  <link href="http://stians.cn/blogs/"/>
+  <link href="http://stians.cn/"/>
   <updated>2020-04-17T04:36:42.552Z</updated>
-  <id>http://stians.cn/blogs/</id>
+  <id>http://stians.cn/</id>
   
   <author>
     <name>Sui Tian Shuang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://stians.cn/blogs/2020/04/17/hello-world/"/>
-    <id>http://stians.cn/blogs/2020/04/17/hello-world/</id>
+    <link href="http://stians.cn/2020/04/17/hello-world/"/>
+    <id>http://stians.cn/2020/04/17/hello-world/</id>
     <published>2020-04-17T04:36:42.552Z</published>
     <updated>2020-04-17T04:36:42.552Z</updated>
     
