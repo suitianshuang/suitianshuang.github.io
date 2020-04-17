@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>一笑 blogs</title>
+  <title>一笑 の Blogs</title>
   
-  <subtitle>study everdyday</subtitle>
+  <subtitle>古今多少事，都付笑谈中。</subtitle>
   <link href="/suitianshuang.github.io/atom.xml" rel="self"/>
   
   <link href="http://stians.cn/"/>
@@ -10,7 +10,7 @@
   <id>http://stians.cn/</id>
   
   <author>
-    <name>Sui Tian Shuang</name>
+    <name>Sui TianShuang</name>
     
   </author>
   
