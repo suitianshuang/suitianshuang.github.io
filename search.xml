@@ -4,6 +4,64 @@
   
     
     <entry>
+      <title>基础sql</title>
+      <link href="/suitianshuang.github.io/2020/04/17/%E5%9F%BA%E7%A1%80sql/"/>
+      <url>/suitianshuang.github.io/2020/04/17/%E5%9F%BA%E7%A1%80sql/</url>
+      
+        <content type="html"><![CDATA[<p><img src="image.jpg" alt=""></p><p>:smile:</p><more><p>&emsp;&emsp;<code>select * from world where one-person = ?</code></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> sql </category>
+          
+          <category> 分类2 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> sql </tag>
+            
+            <tag> 标签2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>余锦</title>
+      <link href="/suitianshuang.github.io/2020/04/17/%E4%BD%99%E9%94%A6/"/>
+      <url>/suitianshuang.github.io/2020/04/17/%E4%BD%99%E9%94%A6/</url>
+      
+        <content type="html"><![CDATA[<p><img src="images/image.jpg" alt=""></p><h1 id="why-a-dog-so-black？"><a href="#why-a-dog-so-black？" class="headerlink" title="why a dog so black？"></a>why a dog so black？</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> new </category>
+          
+          <category> grilFriend </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> girlFriend </tag>
+            
+            <tag> 余锦 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>My First Blog</title>
       <link href="/suitianshuang.github.io/2020/04/17/My-First-Blog/"/>
       <url>/suitianshuang.github.io/2020/04/17/My-First-Blog/</url>

@@ -6,7 +6,7 @@
   <link href="/suitianshuang.github.io/atom.xml" rel="self"/>
   
   <link href="http://stians.cn/"/>
-  <updated>2020-04-17T08:48:58.226Z</updated>
+  <updated>2020-04-17T13:51:05.057Z</updated>
   <id>http://stians.cn/</id>
   
   <author>
@@ -15,6 +15,64 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>基础sql</title>
+    <link href="http://stians.cn/2020/04/17/%E5%9F%BA%E7%A1%80sql/"/>
+    <id>http://stians.cn/2020/04/17/%E5%9F%BA%E7%A1%80sql/</id>
+    <published>2020-04-17T13:04:17.000Z</published>
+    <updated>2020-04-17T13:51:05.057Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="image.jpg" alt=""></p><p>:smile:</p><more><p>&emsp;&emsp;<code>select * from world where one-person = ?</code></p>]]></content>
+    
+    <summary type="html">
+    
+      sql基础总结
+    
+    </summary>
+    
+    
+      <category term="sql" scheme="http://stians.cn/categories/sql/"/>
+    
+      <category term="分类2" scheme="http://stians.cn/categories/sql/%E5%88%86%E7%B1%BB2/"/>
+    
+    
+      <category term="sql" scheme="http://stians.cn/tags/sql/"/>
+    
+      <category term="标签2" scheme="http://stians.cn/tags/%E6%A0%87%E7%AD%BE2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>余锦</title>
+    <link href="http://stians.cn/2020/04/17/%E4%BD%99%E9%94%A6/"/>
+    <id>http://stians.cn/2020/04/17/%E4%BD%99%E9%94%A6/</id>
+    <published>2020-04-17T12:44:51.000Z</published>
+    <updated>2020-04-17T13:41:16.752Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="images/image.jpg" alt=""></p><h1 id="why-a-dog-so-black？"><a href="#why-a-dog-so-black？" class="headerlink" title="why a dog so black？"></a>why a dog so black？</h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;images/image.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;why-a-dog-so-black？&quot;&gt;&lt;a href=&quot;#why-a-dog-so-black？&quot; class=&quot;headerlink&quot; title=&quot;why a dog s
+      
+    
+    </summary>
+    
+    
+      <category term="new" scheme="http://stians.cn/categories/new/"/>
+    
+      <category term="grilFriend" scheme="http://stians.cn/categories/new/grilFriend/"/>
+    
+    
+      <category term="girlFriend" scheme="http://stians.cn/tags/girlFriend/"/>
+    
+      <category term="余锦" scheme="http://stians.cn/tags/%E4%BD%99%E9%94%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>My First Blog</title>
