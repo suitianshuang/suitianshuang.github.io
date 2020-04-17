@@ -6,7 +6,7 @@
   <link href="/suitianshuang.github.io/atom.xml" rel="self"/>
   
   <link href="http://stians.cn/"/>
-  <updated>2020-04-17T04:36:42.552Z</updated>
+  <updated>2020-04-17T08:48:58.226Z</updated>
   <id>http://stians.cn/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My First Blog</title>
+    <link href="http://stians.cn/2020/04/17/My-First-Blog/"/>
+    <id>http://stians.cn/2020/04/17/My-First-Blog/</id>
+    <published>2020-04-17T08:48:58.000Z</published>
+    <updated>2020-04-17T08:48:58.226Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
